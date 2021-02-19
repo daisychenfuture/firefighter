@@ -1,2 +1,2 @@
 # testing build
-This only a build test
+This is only a build test
